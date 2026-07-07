@@ -6,7 +6,7 @@ if(c=='+'): print(a+b)
 if(c=='-'): print(a-b)
 if(c=='*'): print(a*b)
 if(c=='%'): print(a%b)
-if(c=='/'): print(a%b)
+if(c=='/'): print(a/b)
 
 
 
